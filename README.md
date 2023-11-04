@@ -6,3 +6,6 @@ The website using open AI's GPT Model. Technologies using ReactJS, Vite, Tailwin
 --> Implement copy to clipboard. 
 --> Write clean code and much more. 
 --> RapidAPI >> AI Summarizer
+
+To Start the Project: 
+--> npm create vite@latest
