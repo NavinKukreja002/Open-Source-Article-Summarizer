@@ -9,3 +9,6 @@ The website using open AI's GPT Model. Technologies using ReactJS, Vite, Tailwin
 
 To Start the Project: 
 --> npm create vite@latest
+--> npm i @redux/toolkit (3rd Part Lib to manage the state)
+--> npm i -D tailwindcss postcss autoprefixer
+--> npm i tailwindcss init -p
